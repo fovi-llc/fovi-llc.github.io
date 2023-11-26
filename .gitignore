@@ -1,0 +1,6 @@
+cache
+.doit.db
+.doit.db.dir
+.doit.db.pag
+__pycache__
+.DS_Store
