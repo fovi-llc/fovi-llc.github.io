@@ -1,0 +1,4 @@
+Sitemap: https://wiki3.ai/sitemapindex.xml
+
+User-Agent: *
+Host: wiki3.ai
